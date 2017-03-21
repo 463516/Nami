@@ -1,0 +1,12 @@
+<style>
+  body { margin: 1%; padding: 1%; height: 100%; background-color: lightskyblue;}
+      p.zanr, h1, h2, footer p {text-align: center;}
+        p.zanr { font-family: garamond; font-size: 225%; }
+      h1    {color: blue;font-size: 300%; border-style: double; background-color: azure; line-height: 150%;}
+      h2    {color: dodgerblue; font-size: 30px;text-transform: uppercase; font-weight: bold;}
+        footer p { font-size: 30px; font-style: oblique; text-decoration: underline; float: right;}
+      p.autor, p.zdroj {text-align: right; font-style: italic;}
+       blockquote {font-weight: bolder;   text-align: center; font-style: italic;}
+section {background-color: azure; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: justify;}
+
+  </style>
